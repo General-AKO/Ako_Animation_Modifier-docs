@@ -1,3 +1,7 @@
+---
+icon: compass
+---
+
 # Fix Animation Orientation
 
 ## What It Does
@@ -13,9 +17,9 @@ Use it when the animation moves correctly but its travel direction does not matc
 3. Review the **Direction Preview**.
 4. Set the direction change from **-180° to +180°**.
 5. Use a quick alignment button when helpful:
-   - Align to +X / -X
-   - Align to +Y / -Y
-   - Reverse Direction
+   * Align to +X / -X
+   * Align to +Y / -Y
+   * Reverse Direction
 6. Choose the **Alignment Space**: World or Local.
 7. Click **Apply New Direction**.
 

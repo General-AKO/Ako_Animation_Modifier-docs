@@ -1,21 +1,21 @@
 # Output and Asset Problems
 
-## A New Asset Could Not Be Created
+## <mark style="color:$warning;">A New Asset Could Not Be Created</mark>
 
 When a tool creates a new Animation Sequence, check that:
 
-- the output path is valid
-- the asset name is valid
-- an asset with the same name does not already exist
-- the source animation contains the required usable data
+* the output path is valid
+* the asset name is valid
+* an asset with the same name does not already exist
+* the source animation contains the required usable data
 
-## An Existing Source Asset Was Changed Unexpectedly
+## <mark style="color:$warning;">An Existing Source Asset Was Changed Unexpectedly</mark>
 
 The following tools intentionally create new Animation Sequences rather than replacing their source:
 
-- Combine Animation Sequences
-- Layered Blend Per Bone
-- Convert Animation Composite to Animation Sequence
+* Combine Animation Sequences
+* Layered Blend Per Bone
+* Convert Animation Composite to Animation Sequence
 
 For other tools, the current Animation Sequence can be modified directly.
 

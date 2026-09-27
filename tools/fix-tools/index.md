@@ -1,3 +1,7 @@
+---
+icon: gears
+---
+
 # Fix Tools
 
 Use Fix Tools when the animation needs correction or cleanup.
