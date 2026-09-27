@@ -1,3 +1,7 @@
+---
+icon: '2'
+---
+
 # Basic Workflow
 
 Most Ako Animation Modifier tools follow the same pattern:

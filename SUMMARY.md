@@ -1,15 +1,13 @@
 # Table of contents
 
 * [Ako Animation Modifier](README.md)
-
 * [Getting Started](getting-started/index.md)
   * [First Use](getting-started/first-use.md)
   * [Basic Workflow](getting-started/basic-workflow.md)
   * [Choosing the Right Tool](getting-started/choosing-the-right-tool.md)
-
 * [Tools](tools/index.md)
   * [Fix Tools](tools/fix-tools/index.md)
-    * [Fix Root Zero Frame](tools/fix-tools/fix-root-zero-frame.md)
+    * [Fix Root](tools/fix-tools/fix-root-zero-frame.md)
     * [Fix Animation Orientation](tools/fix-tools/fix-animation-orientation.md)
     * [Remove Bone Track Manually](tools/fix-tools/remove-bone-track-manually.md)
     * [Remove Bone Track Auto](tools/fix-tools/remove-bone-track-auto.md)
@@ -28,13 +26,11 @@
   * [Root Motion Workflows](tools/root-motion-workflows.md)
     * [Make Animation In Place](tools/make-animation-in-place.md)
     * [Create Root Motion](tools/create-root-motion.md)
-
 * [Troubleshooting](troubleshooting/index.md)
   * [Errors and Messages](troubleshooting/errors-and-messages.md)
   * [Output and Asset Problems](troubleshooting/output-and-asset-problems.md)
   * [Workflow Troubleshooting](troubleshooting/workflow-troubleshooting.md)
   * [FAQ](troubleshooting/faq.md)
-
 * [Reference](reference/index.md)
   * [Terminology](reference/terminology.md)
   * [Quick Reference](reference/quick-reference.md)
