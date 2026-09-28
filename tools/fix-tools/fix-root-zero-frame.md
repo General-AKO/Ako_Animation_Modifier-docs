@@ -6,7 +6,9 @@ icon: rotate-exclamation
 
 ## What It Does
 
-Fix Root checks the Root at the beginning of the animation and provides a controlled Root/Pelvis correction workflow.
+Fix Root checks the Root at the beginning of the animation and provides a controlled Root/Pelvis correction workflow.\
+\
+[https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2FXHfVZs0gdURZkrhVAKhd%2FROOT\_FIX.mp4?alt=media\&token=a72330d3-ed1b-4e96-9812-3f615b8b85ad](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2FXHfVZs0gdURZkrhVAKhd%2FROOT_FIX.mp4?alt=media\&token=a72330d3-ed1b-4e96-9812-3f615b8b85ad)
 
 The tool is designed for cases where the Root is not initialized correctly or when motion needs to be reorganized between the Root and Pelvis.\
 \

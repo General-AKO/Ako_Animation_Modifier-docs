@@ -31,3 +31,21 @@ If this is your first time using the plugin, begin with [Getting Started](gettin
 ## Documentation Map
 
 See [SUMMARY.md](SUMMARY.md) for the complete documentation structure.
+
+{% file src=".gitbook/assets/ROOT_FIX.mp4" %}
+
+{% file src=".gitbook/assets/rot_fix.mp4" %}
+
+{% file src=".gitbook/assets/fix_noise.mp4" %}
+
+{% file src=".gitbook/assets/snap_to_floor.mp4" %}
+
+{% file src=".gitbook/assets/mirore.mp4" %}
+
+{% file src=".gitbook/assets/Reverse Animation.mp4" %}
+
+{% file src=".gitbook/assets/loop.mp4" %}
+
+{% file src=".gitbook/assets/combine aniamtion.mp4" %}
+
+{% file src=".gitbook/assets/blend_per_bone.mp4" %}
