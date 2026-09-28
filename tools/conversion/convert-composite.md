@@ -1,10 +1,16 @@
+---
+icon: reply
+---
+
 # Convert Animation Composite to Animation Sequence
 
-## What It Does
+## <mark style="background-color:$success;">What It Does</mark>
 
 Bakes the selected **Animation Composite** into a **new Animation Sequence**.
 
 The source Animation Composite is not modified.
+
+<figure><img src="../../.gitbook/assets/Cap 2026-09-28 19-16-13.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Source Information
 
@@ -26,6 +32,8 @@ Choose the output Animation Sequence with **Choose Output...**.
 4. Choose the sampling rate.
 5. Choose the output destination.
 6. Click **Bake New Animation Sequence**.
+
+<mark style="color:$warning;">**Note:**</mark> `Direct Composite Evaluation` currently writes the evaluated **Bone Transforms** and copies **Notifies** and **Sync Markers**. However, **Curves are&#x20;**<mark style="background-color:$warning;">**not yet evaluated**</mark>**&#x20;and written frame-by-frame**.
 
 ## Common Problems
 

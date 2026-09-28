@@ -47,7 +47,9 @@ Use these when combining animations or baking a selected bone branch from anothe
 
 ### Conversion
 
-Use this when you need to bake an Animation Composite into a new Animation Sequence.
+Use this when you need to bake an <mark style="color:blue;">Animation Composite</mark> into a new Animation Sequence.
+
+<figure><img src="../.gitbook/assets/Cap 2026-09-28 19-16-13.jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:$warning;">FOR A Good First Test</mark>
 

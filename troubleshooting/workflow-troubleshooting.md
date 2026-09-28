@@ -1,3 +1,7 @@
+---
+icon: square-kanban
+---
+
 # Workflow Troubleshooting
 
 Before reporting a problem, check the following:

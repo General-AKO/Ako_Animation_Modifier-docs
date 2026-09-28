@@ -4,7 +4,7 @@ icon: gears
 
 # Fix Tools
 
-Use Fix Tools when the animation needs correction or cleanup.
+<mark style="background-color:$warning;">It contains the following tools:</mark>
 
 * [Fix Root](fix-root-zero-frame.md)
 * [Fix Animation Orientation](fix-animation-orientation.md)

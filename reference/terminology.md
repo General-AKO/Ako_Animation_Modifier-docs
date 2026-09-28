@@ -12,14 +12,6 @@ An Unreal animation asset that combines animation segments and can be baked into
 
 Animation data associated with a Skeleton bone.
 
-### Root Motion
-
-Movement represented by the Root bone so the character's travel can be handled separately from local body motion.
-
-### In Place
-
-An animation where the character does not travel through the world, allowing movement to be handled separately.
-
 ### IK Bone
 
 A bone used as an inverse-kinematics control point, normally paired with a target bone.

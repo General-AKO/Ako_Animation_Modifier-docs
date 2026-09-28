@@ -1,3 +1,7 @@
+---
+icon: comment-question
+---
+
 # FAQ
 
 ## Does the plugin replace my source animation?

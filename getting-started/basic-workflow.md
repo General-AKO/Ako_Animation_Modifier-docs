@@ -6,7 +6,7 @@ icon: '2'
 
 Most Ako Animation Modifier tools follow the same pattern:
 
-**Select → Configure → Analyze or Preview (when available) → Apply**
+**Select →&#x20;**<mark style="color:yellow;">**Configure**</mark>**&#x20;→&#x20;**<mark style="color:$warning;">**Analyze**</mark>**&#x20;or&#x20;**<mark style="color:$warning;">**Preview**</mark>**&#x20;(when available) →&#x20;**<mark style="color:$success;">**Apply**</mark>
 
 ## Select
 
@@ -24,6 +24,6 @@ When a tool offers analysis or a preview, use it to confirm the intended result 
 
 Run the final operation only after the inputs and preview are correct.
 
-## Review the Result
+## <mark style="color:$success;">Review the Result</mark>
 
 Inspect the updated animation in the Animation Editor. If the tool reports an error, use the exact message to determine what needs to be corrected.

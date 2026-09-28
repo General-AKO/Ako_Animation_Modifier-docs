@@ -4,19 +4,22 @@ icon: rotate-exclamation
 
 # Fix Root
 
-## What It Does
+## <mark style="background-color:$success;">What It Does</mark>
 
 Fix Root checks the Root at the beginning of the animation and provides a controlled Root/Pelvis correction workflow.<br>
 
+The tool is designed for cases where the Root is not initialized correctly or when motion needs to be reorganized between the Root and Pelvis.
+
+#### 🟢 **VIDEO TUTORIAL:**
+
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2FXHfVZs0gdURZkrhVAKhd%2FROOT_FIX.mp4?alt=media&token=a72330d3-ed1b-4e96-9812-3f615b8b85ad" %}
 
-The tool is designed for cases where the Root is not initialized correctly or when motion needs to be reorganized between the Root and Pelvis.\
 \
 <mark style="color:$warning;">The tools</mark> <mark style="color:$success;">automatically detect</mark> <mark style="color:$warning;">the</mark> <mark style="color:$danger;">Pelvis</mark> <mark style="color:$warning;">and</mark> <mark style="color:$danger;">Root</mark><mark style="color:$warning;">, but it’s always a good idea to double-check them.</mark>
 
-<figure><img src="../../.gitbook/assets/Cap 2026-09-27 22-00-09.jpg" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:$success;">**This tools include 2 stage:**</mark>
+
+#### <mark style="color:$success;">**This tools include 2 stage:**</mark>
 
 ## Stage 1 — Root Initial Position
 
@@ -41,8 +44,9 @@ Choose:
 * Root Bone
 * Pelvis Bone
 * Transfer axes: X, Y, Z
-* Transfer direction:\
-  &#x20;Root → Pelvis to create <mark style="color:$success;">**in place animation**</mark> or Pelvis → Root to create <mark style="color:$success;">in place animation</mark>
+* **Transfer direction:**\
+  &#x20;  \*\* Ako Animation Modifier includes two Root Motion workflows:\
+  &#x20;       Root → Pelvis -to create <mark style="color:$success;">**in place animation**</mark> <mark style="color:$danger;">or</mark> Pelvis → Root - to create <mark style="color:$success;">**root motion**</mark><br>
 
 <figure><img src="../../.gitbook/assets/IM005.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,3 +1,7 @@
+---
+icon: inbox-full
+---
+
 # Errors and Messages
 
 ## No Animation Sequence is available

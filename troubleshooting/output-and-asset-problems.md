@@ -1,3 +1,7 @@
+---
+icon: file-export
+---
+
 # Output and Asset Problems
 
 ## <mark style="color:$warning;">A New Asset Could Not Be Created</mark>
