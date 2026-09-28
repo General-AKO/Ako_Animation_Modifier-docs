@@ -8,7 +8,9 @@ icon: compass
 
 Fix Animation Orientation rotates the Root Motion translation path so the animation travels in the required direction.
 
-Use it when the animation moves correctly but its travel direction does not match your intended setup.
+Use it when the animation moves correctly but its travel direction does not match your intended setup.<br>
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2FSDSGVumcCqN3jBe2VrcV%2Frot_fix.mp4?alt=media&token=f3bfd532-9ffa-494f-9a5c-0875045dc53a" %}
 
 ## Workflow
 

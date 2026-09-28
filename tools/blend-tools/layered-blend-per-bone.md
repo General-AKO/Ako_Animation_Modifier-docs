@@ -6,6 +6,8 @@ Creates a **new Animation Sequence** by baking a selected bone branch from a sec
 
 The selected branch contains the selected bone and all of its children.
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2FTdjeC3Ov5zivnydlRuKm%2Fblend_per_bone.mp4?alt=media&token=ae6d6f9a-3c84-41a8-88a9-fc1e392165bc" %}
+
 ## Requirements
 
 The two Animation Sequences must use the **same Skeleton**.

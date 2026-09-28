@@ -1,3 +1,7 @@
+---
+icon: bone-break
+---
+
 # Remove Bone Track Auto
 
 ## What It Does
@@ -5,6 +9,8 @@
 Remove Bone Track Auto analyzes the animation and its Skeletal Mesh setup to find bone tracks driven by Post Process Animation Blueprints.
 
 Detection is provided for convenience. The detected list remains editable before removal.
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2FfPMT0RaDuKLQdeWL6oJ9%2Ffix_noise.mp4?alt=media&token=fc5db325-ae66-4154-90aa-1cac528d71ae" %}
 
 ## Options
 

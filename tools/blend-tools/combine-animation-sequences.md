@@ -6,12 +6,14 @@ Creates a **new Animation Sequence** by placing Animation Sequence B after Anima
 
 The source sequences are not modified.
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2FRNeJTgSU0RK2rNx0buzU%2Fcombine%20aniamtion.mp4?alt=media&token=e386e181-efbb-489e-9a3d-0158e78e47c9" %}
+
 ## Source Sequences
 
 Choose:
 
-- **Sequence A** — the first animation.
-- **Sequence B** — the animation placed after A.
+* **Sequence A** — the first animation.
+* **Sequence B** — the animation placed after A.
 
 Both must be valid Animation Sequences with usable Skeleton information and a length greater than zero.
 
@@ -33,11 +35,11 @@ Creates a transition between A and B using the selected number of transition fra
 
 ## Data Options
 
-- **Bone Tracks (required)**
-- **Curves**
-- **Continue Root Motion**
-- **Notifies**
-- **Sync Markers**
+* **Bone Tracks (required)**
+* **Curves**
+* **Continue Root Motion**
+* **Notifies**
+* **Sync Markers**
 
 ## Sampling Rate
 

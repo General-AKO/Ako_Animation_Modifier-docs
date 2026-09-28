@@ -1,3 +1,7 @@
+---
+icon: bone
+---
+
 # Remove Bone Track Manually
 
 ## What It Does

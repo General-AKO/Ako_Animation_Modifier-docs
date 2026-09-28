@@ -4,12 +4,14 @@
 
 Snap IK Bones finds IK bones and their target bones, then makes the IK tracks follow the target positions across the animation.
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6sAtdsTWUp3EFn3eOTvl%2Fuploads%2Fgm2JShwf3pZWK6OK8X0V%2Fik_snap.mp4?alt=media&token=94c08935-9b63-4aa2-ae88-cdfd6affebde" %}
+
 ## Detection Source
 
 Choose:
 
-- **Preview Skeletal Mesh**
-- **Skeleton**
+* **Preview Skeletal Mesh**
+* **Skeleton**
 
 ## Options
 
